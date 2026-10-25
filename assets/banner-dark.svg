@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Terminal: Jenny Joel Sam, Python backend and AI engineer">
+<style>text{font:14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}.c{animation:t var(--d) steps(var(--n),end) var(--s) forwards}@keyframes t{from{width:0}to{width:var(--w)}}.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect x="1" y="1" width="898" height="328" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v30H1z" fill="#161b22"/>
+<line x1="1" y1="44" x2="899" y2="44" stroke="#30363d"/>
+<circle cx="26" cy="23" r="6.5" fill="#ff5f56"/>
+<circle cx="48" cy="23" r="6.5" fill="#ffbd2e"/>
+<circle cx="70" cy="23" r="6.5" fill="#27c93f"/>
+<text x="450.0" y="28" text-anchor="middle" fill="#8b949e" style="font-size:13px">jenny@hyderabad: ~/profile</text>
+<clipPath id="k0"><rect x="28" y="74" height="26" class="c" style="--w:83px;--d:0.50s;--n:8;--s:0.40s" width="0"/></clipPath>
+<text x="28" y="92" clip-path="url(#k0)"><tspan fill="#3fb950">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+<clipPath id="k1"><rect x="28" y="102" height="26" class="c" style="--w:495px;--d:2.00s;--n:57;--s:1.25s" width="0"/></clipPath>
+<text x="28" y="120" clip-path="url(#k1)"><tspan fill="#58a6ff">  jenny-joel-sam</tspan><tspan fill="#c9d1d9"> · python backend &amp; ai engineer</tspan><tspan fill="#8b949e"> · fresher</tspan></text>
+<clipPath id="k2"><rect x="28" y="130" height="26" class="c" style="--w:142px;--d:0.53s;--n:15;--s:3.60s" width="0"/></clipPath>
+<text x="28" y="148" clip-path="url(#k2)"><tspan fill="#3fb950">$ </tspan><tspan fill="#c9d1d9">cat stack.txt</tspan></text>
+<clipPath id="k3"><rect x="28" y="158" height="26" class="c" style="--w:478px;--d:1.93s;--n:55;--s:4.47s" width="0"/></clipPath>
+<text x="28" y="176" clip-path="url(#k3)"><tspan fill="#e3b341">  python</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e3b341">fastapi</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e3b341">sqlalchemy</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e3b341">pytest</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e3b341">docker</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e3b341">git</tspan></text>
+<clipPath id="k4"><rect x="28" y="186" height="26" class="c" style="--w:201px;--d:0.77s;--n:22;--s:6.75s" width="0"/></clipPath>
+<text x="28" y="204" clip-path="url(#k4)"><tspan fill="#3fb950">$ </tspan><tspan fill="#c9d1d9">git log -1 --oneline</tspan></text>
+<clipPath id="k5"><rect x="28" y="214" height="26" class="c" style="--w:444px;--d:1.79s;--n:51;--s:7.87s" width="0"/></clipPath>
+<text x="28" y="232" clip-path="url(#k5)"><tspan fill="#d2a8ff">  ba74881</tspan><tspan fill="#c9d1d9"> shipped kb-api v0.2: 32 tests, CI, Docker</tspan></text>
+<clipPath id="k6"><rect x="28" y="242" height="26" class="c" style="--w:134px;--d:0.50s;--n:14;--s:10.00s" width="0"/></clipPath>
+<text x="28" y="260" clip-path="url(#k6)"><tspan fill="#3fb950">$ </tspan><tspan fill="#c9d1d9">echo $STATUS</tspan></text>
+<clipPath id="k7"><rect x="28" y="270" height="26" class="c" style="--w:360px;--d:1.44s;--n:41;--s:10.85s" width="0"/></clipPath>
+<text x="28" y="288" clip-path="url(#k7)"><tspan fill="#58a6ff">  open_to_work</tspan><tspan fill="#8b949e">=</tspan><tspan fill="#3fb950">true</tspan><tspan fill="#8b949e">  # hyderabad / remote</tspan></text>
+<text x="28" y="316"><tspan fill="#3fb950">$ </tspan></text>
+<rect class="cur" x="46.8" y="303" width="8" height="16" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" values="1;1" begin="12.64s" dur="0.01s" fill="freeze"/></rect>
+</svg>
